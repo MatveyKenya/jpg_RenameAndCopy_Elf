@@ -1,0 +1,1 @@
+pyside2-uic "F:\Documents\Python_files\my_os_jpg_rename\main_os_form.ui" -o "F:\Documents\Python_files\my_os_jpg_rename\main_os_form.py"
